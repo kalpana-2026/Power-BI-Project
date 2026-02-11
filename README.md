@@ -13,7 +13,7 @@ This Power BI project analyzes E-Commerce sales data to understand revenue, orde
 
  ## Insights
 - Laptops and Mobiles generate highest revenue
-- Hyderabad and Delhi are top revenue cities
+- Maharashtra and Gujarat are top revenue states
 - Around 30% orders were cancelled
 - Sales increased from January to October
 
